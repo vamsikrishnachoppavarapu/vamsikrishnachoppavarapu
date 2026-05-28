@@ -89,7 +89,7 @@ I'm a data-driven problem solver with **7+ years of software engineering experie
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vamsi-krishna-ch&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vamsi-krishna-ch&theme=tokyonight&hide_border=true)
 
 </div>
 
